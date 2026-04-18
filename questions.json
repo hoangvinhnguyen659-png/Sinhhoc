@@ -1,1 +1,81 @@
+[
+  {
+    "id": "cau1",
+    "topic": "Tiến hóa - Bằng chứng phân tử",
+    "question": "Bằng chứng quan trọng có sức thuyết phục nhất cho thấy trong nhóm người ngày nay, tinh tinh có quan hệ gần gũi nhất với người là",
+    "options": {
+      "a": "sự giống nhau về DNA của tinh tinh và DNA của người.",
+      "b": "khả năng biểu lộ tình cảm vui, buồn hay giận dữ.",
+      "c": "khả năng sử dụng các công cụ có sẵn trong tự nhiên.",
+      "d": "thời gian mang thai 270 - 275 ngày, đẻ con và nuôi con bằng sữa."
+    },
+    "answer": "a",
+    "explanation": "Sự tương đồng về trình tự DNA là bằng chứng phân tử chính xác nhất để xác định mối quan hệ họ hàng giữa các loài."
+  },
+  {
+    "id": "cau2",
+    "topic": "Tiến hóa - Bằng chứng phân tử",
+    "question": "Chuỗi B - hemoglobin của một số loài trong bộ Linh trưởng đều gồm 146 amino acid nhưng khác biệt nhau một số amino acid. Theo lí thuyết, loài nào ở bảng này có quan hệ họ hàng gần với người nhất?",
+    "options": {
+      "a": "Vượn Gibbon",
+      "b": "Gorila",
+      "c": "Khỉ sóc",
+      "d": "Tinh tinh"
+    },
+    "answer": "d",
+    "explanation": "Loài nào có ít axit amin khác biệt so với người nhất (Tinh tinh có 0 axit amin khác biệt) thì có quan hệ họ hàng gần với người nhất."
+  },
+  {
+    "id": "cau3",
+    "topic": "Tiến hóa - Bằng chứng trực tiếp",
+    "question": "Bằng chứng nào sau đây được xem là bằng chứng tiến hóa trực tiếp?",
+    "options": {
+      "a": "Cơ quan tương tự.",
+      "b": "Cơ quan thoái hóa.",
+      "c": "Hóa thạch xương khủng long.",
+      "d": "Cơ quan tương đồng."
+    },
+    "answer": "c",
+    "explanation": "Hóa thạch là bằng chứng trực tiếp cho thấy lịch sử phát triển của sinh giới qua các thời đại địa chất."
+  },
+  {
+    "id": "cau4",
+    "topic": "Tiến hóa - Cơ quan thoái hóa",
+    "question": "Những loài rắn không có chân nhưng trong cơ thể vẫn còn mẩu xương nhỏ không còn chức năng được gọi là?",
+    "options": {
+      "a": "Cơ quan thoái hóa.",
+      "b": "Bằng chứng hóa thạch.",
+      "c": "Bằng chứng tiêu biến.",
+      "d": "Bằng chứng tế bào học."
+    },
+    "answer": "a",
+    "explanation": "Cơ quan thoái hóa là cơ quan phát triển không đầy đủ ở cơ thể trưởng thành, mất dần chức năng ban đầu."
+  },
+  {
+    "id": "cau5",
+    "topic": "Tiến hóa - Nhân tố tiến hóa",
+    "question": "Sự biến mất chân của các loài rắn không có chân chịu tác động chính của nhân tố nào?",
+    "options": {
+      "a": "Đột biến.",
+      "b": "Dòng gene.",
+      "c": "Chọn lọc tự nhiên.",
+      "d": "Phiêu bạt di truyền."
+    },
+    "answer": "c",
+    "explanation": "Sự biến mất chân của các loài rắn không có chân chịu tác động chính của nhân tố chọn lọc tự nhiên để thích nghi với môi trường sống."
+  },
+  {
+    "id": "cau6",
+    "topic": "Tiến hóa - Bằng chứng giải phẫu",
+    "question": "Ruột thừa ở người; hạt ngô trên bông cờ của ngô hay cây đu đủ đực có quả. Đây là bằng chứng về",
+    "options": {
+      "a": "Cơ quan thoái hóa.",
+      "b": "Cơ quan tương đồng.",
+      "c": "Phôi sinh học.",
+      "d": "Cơ quan tương tự."
+    },
+    "answer": "a",
+    "explanation": "Ruột thừa ở người và các trường hợp nêu trên đều là những cơ quan không còn chức năng hoặc chức năng bị giảm sút rất nhiều, đại diện cho cơ quan thoái hóa."
+  }
+]
 
