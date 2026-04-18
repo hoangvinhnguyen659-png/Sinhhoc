@@ -1,0 +1,11 @@
+{
+  "name": "trac-nghiem-120-cau",
+  "version": "1.0.0",
+  "description": "Ứng dụng trắc nghiệm tự động chấm điểm xanh đỏ trên Cloudflare Pages",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'Đang khởi chạy ứng dụng...'"
+  },
+  "author": "Sin",
+  "license": "MIT"
+}
